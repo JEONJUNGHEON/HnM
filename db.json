@@ -2,9 +2,9 @@
     "products" : [
         {
             "id":0,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/7b/cb/7bcbb4aecf946d394ab3e163ca06fc71f374e651.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&call=url[file:/product/main]",
-            "title":"레귤러핏 트윌 셔츠",
-            "price":34900,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/ed/ca/edcacecc9974bb56fc105604ccef4d35b434d0ab.jpg],origin[dam],category[men_jacketscoats_jackets],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&call=url[file:/product/main]",
+            "title":"루즈핏 나일론 재킷",
+            "price":49900,
             "choice":true,
             "new":true,
             "size":["S","M","L"]
